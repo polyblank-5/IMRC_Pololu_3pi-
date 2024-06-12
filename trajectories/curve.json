@@ -1,46 +1,4 @@
-{
-    "result": [
-        {
-            "time_stamp": 3.2379e-319,
-            "cost": 100000000,
-            "feasible": 0,
-            "traj_feas": 0,
-            "goal_feas": 0,
-            "start_feas": 0,
-            "col_feas": 0,
-            "x_bounds_feas": 0,
-            "u_bounds_feas": 0,
-            "start": [],
-            "goal": [],
-            "max_jump": -1,
-            "max_collision": -1,
-            "goal_distance": -1,
-            "start_distance": -1,
-            "x_bound_distance": -1,
-            "u_bound_distance": -1,
-            "num_states": 34,
-            "states": [
-                [
-                    0,
-                    0,
-                    0
-                ],
-                [
-                    0.0499803,
-                    0,
-                    0.248486
-                ],
-                [
-                    0.243837,
-                    0.0491873,
-                    0.366204
-                ],
-                [
-                    0.296976,
-                    0.0695659,
-                    0.468608
-                ],
-                [
+           [
                     0.357781,
                     0.100347,
                     0.55831
